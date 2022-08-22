@@ -1,11 +1,13 @@
 {
-  "buildType": "dev",
+    "buildType": "dev",
 
-  "apiUrl": "http://localhost:5000/api/",
-  "authDomain": "localhost",
-  "bouncerUrl": "http://localhost:8000/",
-  "serviceUrl": "http://localhost:5000/",
+    "apiUrl": "http://localhost:5000/api/",
+    "authDomain": "localhost",
+    "bouncerUrl": "http://localhost:8000/",
+    "serviceUrl": "http://localhost:5000/",
 
-  "browserIsChrome": true,
-  "appType": "chrome-extension"
+    "oauthClientId": "db8d54ee-2247-11ed-a2d0-87cc36c4707e",
+
+    "browserIsChrome": true,
+    "appType": "chrome-extension"
 }
